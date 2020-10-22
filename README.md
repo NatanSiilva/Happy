@@ -53,7 +53,7 @@ O projeto foi desenvolvido durante a Next Level Week 3, organizada pela Rocketse
  - Clone o repositório usando o Git Bash
  
  ```
-$ git clone https://github.com/gabrielipavlack/Happy.git
+$ git clone https://github.com/NatanSiilva/Happy.git
 
 ```
 
